@@ -1,4 +1,4 @@
-AI Engineer  specializing in Generative AI, RAG architectures, Computer Vision and DataScience
+AI Engineer  specializing in Generative AI, RAG architectures, Computer Vision and DataScience.
 
 **Tech Stack:**
 - *Programming Languages*: Python, R, C++, SQL, JavaScript, HTML5/CSS3
